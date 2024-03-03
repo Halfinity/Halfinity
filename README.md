@@ -5,7 +5,9 @@
 , I'm Ofir Halfin</h1>
 <h3 align="center">A Student from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halfinity&label=Profile%20views&color=0e75b6&style=flat" alt="halfinity" /> </p>
+<p align="center" style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=halfinity&label=Profile%20views&color=0e75b6&style=flat" alt="halfinity" />
+</p>
 
 - 🔭 I’m currently working on Bachelor's degree in Computer science.
 
