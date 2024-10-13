@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/OfirHalfin/Halfinity/blob/main/6171819be4c31993357d758196c75701.gif?raw=true" alt="HeadMaster" width="800" />
+    <img src="https://github.com/OfirHalfin/OfirHalfin/blob/main/6171819be4c31993357d758196c75701.gif?raw=true" alt="HeadMaster" width="800" />
 </h1>
 
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink">
