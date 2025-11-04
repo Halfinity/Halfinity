@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 30px; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 </a>
 , I'm Ofir Halfin</h1>
-<h3 align="center">A Student from Israel</h3>
+<h3 align="center">SOC Analyst</h3>
 
 <p align="center" style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=halfinity&label=Profile%20views&color=0e75b6&style=flat" alt="halfinity" />
 </p>
 
-- 🌱 I’m currently learning **Python language**
+- 🌱 I’m currently learning...
 - 💬 Ask me about **Cyber Security**
 - 📫 How to reach me **ofirhalfin13@gmail.com**
 
