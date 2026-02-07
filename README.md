@@ -35,6 +35,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfinity&show_icons=true&bg_color=00000000" alt="halfinity" />
 </p> 
-
-### 📂 My Learning Tracks
-* [HTB-Intro to Red Team][https://github.com/stars/Halfinity/lists/htb-intro-to-red-team]
