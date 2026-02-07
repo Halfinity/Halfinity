@@ -33,5 +33,3 @@
 </p>
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfinity&show_icons=true&bg_color=00000000" alt="halfinity" />
-</p> 
