@@ -37,4 +37,4 @@
 </p> 
 
 ### 📂 My Learning Tracks
-* [HTB-Intro to Red Team][(PASTE_THE_URL_HERE](https://github.com/stars/Halfinity/lists/htb-intro-to-red-team)
+* [HTB-Intro to Red Team][https://github.com/stars/Halfinity/lists/htb-intro-to-red-team]
