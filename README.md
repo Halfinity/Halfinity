@@ -60,35 +60,6 @@ class RedTeamOperator:
 | 🟣 PentesterLab | Web Application Security |
 | 🔴 PortSwigger | Advanced Web Attack Techniques |
 
-## 📚 Featured Projects
-
-### 🔴 Red Team & Penetration Testing
-- **[Penetration Testing Toolkit](https://github.com/Halfinity/pentest-toolkit)** - Custom security tools and automation scripts
-- **[Security Write-ups](https://github.com/Halfinity/security-writeups)** - HackTheBox & TryHackMe machine walkthroughs
-
-### 🌐 Web Application Security
-- **[SQL Injection Notes](https://github.com/Halfinity/sql-injection-notes)** - Comprehensive SQL injection study guide with payloads
-- **[Web Security Vulnerabilities](https://github.com/Halfinity/web-security-vulnerabilities)** - OWASP Top 10 research and exploitation
-
-### 🛠️ Security Tools & Scripts
-- **Custom Reconnaissance Tools** - OSINT automation and subdomain enumeration
-- **Exploitation Scripts** - Automated vulnerability scanners and exploit frameworks
-- **Privilege Escalation Automation** - Linux/Windows privesc enumeration tools
-
-## 🏆 Certifications & Learning Path
-
-```
-🎓 Currently Pursuing:
-   ├─ eLearnSecurity Junior Penetration Tester (eJPT)
-   ├─ Offensive Security Certified Professional (OSCP)
-   └─ Certified Red Team Professional (CRTP)
-
-📚 Completed Training:
-   ├─ SOC Analyst Level 1 Certification
-   ├─ Web Application Security Fundamentals
-   └─ Active CTF Competitor
-```
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,8 +87,8 @@ class RedTeamOperator:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofirhalfin13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ofir-halfin)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/profile/yourprofile](https://app.hackthebox.com/users/1225695?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/yourprofile](https://tryhackme.com/p/p0wnedd))
 
 </div>
 
