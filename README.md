@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Penetration+Tester;Red+Team+Operator;Offensive+Security+Enthusiast;Bug+Hunter+%7C+Security+Researcher)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Penetration+Tester;Red+Team+Operator;Offensive+Security+Enthusiast)
 </div>
 
 ## 🎯 About Me
