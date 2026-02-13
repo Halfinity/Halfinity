@@ -9,7 +9,7 @@ Password: ****************
 root@Halfin:~# whoami
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&height=100&lines=Penetration+Tester;Red+Team+Operator;Offensive+Security+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=800&color=F75C7E&center=true&vCenter=true&width=800&height=100&lines=Penetration+Tester;Red+Team+Operator;Offensive+Security+Enthusiast)
 </div>
 
 ## 🎯 About Me
