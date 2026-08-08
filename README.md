@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝      ╚═╝   
 ```
 
-### `Ofir Halfin` — Security Operations · Detection Engineering · Threat Hunting
+### `Ofir Halfin` - Security Operations · Detection Engineering · Threat Hunting
 
 [![Role](https://img.shields.io/badge/Security_Operations-SecOps-DC143C?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
 [![Location](https://img.shields.io/badge/Israel-1E90FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
@@ -25,7 +25,7 @@
 $ whoami
 ```
 
-Security Operations engineer working in enterprise defense — detection engineering, threat hunting, and incident response.
+Security Operations engineer working in enterprise defense - detection engineering, threat hunting, and incident response.
 
 My background is MDR at scale: leading a shift of Tier-1 analysts across a 60+ client enterprise base, running triage and escalation, and tuning the detections that decide what an analyst actually sees at 3 AM. Most of my work lives in the SIEM — writing and refining query logic, cutting false positives, and mapping coverage against MITRE ATT&CK.
 
@@ -75,8 +75,8 @@ languages:  Hebrew · English
 
 ## `> projects`
 
-### [Aegis](https://github.com/Halfinity/Aegis) — SIEM Detection Rule Generator
-Turns a plain-language threat description into production-grade detection logic across **8 query languages** — KQL, SPL, XQL, EQL, SQL, AQL, Trend Micro Vision One, and Python.
+### [Aegis](https://github.com/Halfinity/Aegis) - SIEM Detection Rule Generator
+Turns a plain-language threat description into production-grade detection logic across **8 query languages** - KQL, SPL, XQL, EQL, SQL, AQL, Trend Micro Vision One, and Python.
 
 Built because writing the same detection eight times for eight platforms is not a good use of a shift.
 
