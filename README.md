@@ -9,10 +9,10 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝      ╚═╝   
 ```
 
-### `Ofir Halfin` — Security Operations · Detection Engineering · Offensive Security
+### `Ofir Halfin` — Security Operations · Detection Engineering · Threat Hunting
 
-[![Profile](https://img.shields.io/badge/MDR_Shift_Lead-TrustNet_Cyber_Security-DC143C?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
-[![Location](https://img.shields.io/badge/Petah_Tikva-Israel-1E90FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
+[![Role](https://img.shields.io/badge/Security_Operations-SecOps-DC143C?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
+[![Location](https://img.shields.io/badge/Israel-1E90FF?style=for-the-badge&labelColor=0D1117)](https://github.com/Halfinity)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofir-halfin-aa9499243/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Halfinity)
@@ -25,16 +25,15 @@
 $ whoami
 ```
 
-Blue team by trade, red team by obsession.
+Security Operations engineer working in enterprise defense — detection engineering, threat hunting, and incident response.
 
-I lead an MDR shift at **TrustNet Cyber Security**, running Tier-1 analysts across a 60+ enterprise client base — triage, escalation, detection tuning, and incident response at scale. Day to day that means living inside QRadar, Sentinel, Cortex XDR and CrowdStrike, and writing the queries that catch things before they matter.
+My background is MDR at scale: leading a shift of Tier-1 analysts across a 60+ client enterprise base, running triage and escalation, and tuning the detections that decide what an analyst actually sees at 3 AM. Most of my work lives in the SIEM — writing and refining query logic, cutting false positives, and mapping coverage against MITRE ATT&CK.
 
-The other half of my time goes to the offensive side: HTB Pro Labs, AD attack chains, ADCS abuse, and building the tooling that sits between both worlds. Knowing how the attack actually lands is what makes the detection worth writing.
+I care about the part of security that nobody demos: alert quality. A detection that fires on everything is the same as no detection at all.
 
 ```yaml
-role:       MDR Shift Lead → Offensive Security
-focus:      Detection Engineering · Threat Hunting · Penetration Testing
-certs:      eJPT · CRTA · CPTS (in progress)
+focus:      Detection Engineering · Threat Hunting · Incident Response
+platforms:  Microsoft Sentinel · QRadar · Cortex XDR · CrowdStrike
 languages:  Hebrew · English
 ```
 
@@ -42,26 +41,19 @@ languages:  Hebrew · English
 
 ## `> arsenal`
 
-**Detection & Response**
+**SIEM & Detection**
 
 ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-1E90FF?style=flat-square&logo=elasticstack&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-C41E3A?style=flat-square&logo=mitre&logoColor=white)
+
+**Endpoint & Response**
+
 ![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-00CC66?style=flat-square&logo=paloaltonetworks&logoColor=white)
 ![Defender](https://img.shields.io/badge/Defender_for_Endpoint-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-6B0AEA?style=flat-square&logo=sentinelone&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat-square&logo=crowdstrike&logoColor=white)
-
-**Offensive**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnometerminal&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-C41E3A?style=flat-square&logo=databricks&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-333333?style=flat-square&logo=python&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-8A2BE2?style=flat-square&logo=hackaday&logoColor=white)
-
-`Sliver` · `Certipy` · `evil-winrm` · `chisel` · `Caido` · `Hydra` · `Commando-VM`
 
 **Query & Code**
 
@@ -71,7 +63,13 @@ languages:  Hebrew · English
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-`SPL` · `AQL` · `XQL` · `EQL` · `Sigma`
+`SPL` · `AQL` · `XQL` · `EQL` · `SQL`
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -86,23 +84,12 @@ Built because writing the same detection eight times for eight platforms is not 
 
 ---
 
-## `> certifications`
-
-| Cert | Issuer | Status |
-|:--|:--|:--|
-| **eJPT** — Junior Penetration Tester | INE | ✅ Certified |
-| **CRTA** — Certified Red Team Analyst | CyberWarFare Labs | ✅ Certified |
-| **CPTS** — Certified Penetration Testing Specialist | Hack The Box | 🔄 In Progress |
-| Penetration Tester Job Role Path | HTB Academy | ✅ Completed |
-
----
-
 ## `> stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Halfinity&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=1E90FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halfinity&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Halfinity&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=1E90FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halfinity&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9" />
 
 </div>
 
@@ -114,6 +101,6 @@ Built because writing the same detection eight times for eight platforms is not 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofir-halfin-aa9499243/)
 
-<sub>`Detection is a hypothesis. Exploitation is the test.`</sub>
+<sub>`A detection that fires on everything is the same as no detection at all.`</sub>
 
 </div>
